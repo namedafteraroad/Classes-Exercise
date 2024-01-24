@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    public class Car   //Constructor
+    public class Car   
     {
+        public Car() //Constructor
+        {
+        
+        
+        }
+
+
 
         public string Make { get; set; }   //string property
         public string Model { get; set; }  //string property
@@ -15,8 +22,10 @@ namespace Classes
 
     }
 
-    
 
+
+    
+     
 
 
 

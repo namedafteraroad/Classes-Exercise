@@ -13,7 +13,7 @@
             //OIS
             Car car2 = new Car() {Make = "Ford", Model = "Bronco II", Year = 1983};
 
-           
+            Console.WriteLine($"{Pony.Year} {Pony.Make } {Pony.Model} ");
 
         }
     }
